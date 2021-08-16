@@ -3,7 +3,7 @@
 	"displayName": "Word Count Juejin",
 	"version": "1.0.2",
 	"publisher": "youngjuning",
-	"description": "Markdown Word Count Example - a status bar contribution that reports out the number of words in a Markdown document as you interact with it.",
+	"description": "专为掘金适配的 Markdown 文件字数统计 VS Code 扩展、，字数统计会实时显示在状态栏。",
 	"author": {
 		"name": "luozhu"
 	},
