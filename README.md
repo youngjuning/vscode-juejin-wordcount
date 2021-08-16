@@ -1,6 +1,6 @@
 # VSCode - WordCount README
- 
-This is a simple extension that illustrates a number of concepts when it comes to writing extensions for VS Code.  
+
+This is a simple extension that illustrates a number of concepts when it comes to writing extensions for VS Code.
 
 * Activation on a file type open
 * Contributing to the status bar
@@ -11,5 +11,3 @@ This is a simple extension that illustrates a number of concepts when it comes t
 ## Functionality
 
 It's pretty simple open up a `Markdown` file and the status bar will have an auto-updating wordcount in it...
-
-![Word Count in status bar](images/wordcount.gif)
