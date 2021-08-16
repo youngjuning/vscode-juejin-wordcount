@@ -1,7 +1,8 @@
 // The module 'vscode' contains the VS Code extensibility API
 // Import the module and reference it with the alias vscode in your code below
+// @ts-nocheck
 import {window, workspace, commands, Disposable, ExtensionContext, StatusBarAlignment, StatusBarItem, TextDocument} from 'vscode';
-import * as countWord from 'word-count';
+import countWord from './count-word';
 
 // this method is called when your extension is activated. activation is
 // controlled by the activation events defined in package.json
