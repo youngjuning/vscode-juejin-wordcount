@@ -1,11 +1,11 @@
 {
 	"name": "wordcount-juejin",
-	"displayName": "Word Count",
+	"displayName": "Word Count Juejin",
 	"version": "1.0.0",
 	"publisher": "youngjuning",
 	"description": "Markdown Word Count Example - a status bar contribution that reports out the number of words in a Markdown document as you interact with it.",
 	"author": {
-		"name": "seanmcbreen"
+		"name": "luozhu"
 	},
 	"categories": [
 		"Other"
