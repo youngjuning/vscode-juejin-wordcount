@@ -1,6 +1,6 @@
 {
 	"name": "wordcount-juejin",
-	"displayName": "Word Count Juejin",
+	"displayName": "掘金字数统计",
 	"version": "1.2.0",
 	"publisher": "youngjuning",
 	"description": "专为掘金适配的 Markdown 文件字数统计 VS Code 扩展，字数统计会实时显示在状态栏。",
@@ -11,7 +11,7 @@
 		"Other"
 	],
 	"license": "SEE LICENSE IN LICENSE.txt",
-	"icon": "images/icon.png",
+	"icon": "assets/icon-yoyo.png",
 	"galleryBanner": {
 		"color": "#C80000",
 		"theme": "dark"
