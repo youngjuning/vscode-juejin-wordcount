@@ -1,7 +1,7 @@
 {
 	"name": "wordcount-juejin",
 	"displayName": "掘金字数统计",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"publisher": "youngjuning",
 	"description": "专为掘金适配的 Markdown 文件字数统计 VS Code 扩展，字数统计会实时显示在状态栏。",
 	"author": {
