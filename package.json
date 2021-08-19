@@ -19,6 +19,9 @@
 	"activationEvents": [
 		"onLanguage:markdown"
 	],
+	"extensionDependencies": [
+		"youngjuning.juejin-me"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/youngjuning/vscode-juejin-wordcount.git"
